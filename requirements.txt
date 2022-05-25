@@ -27,7 +27,7 @@ Naked==0.1.31
 Pillow==5.1.0
 pycrypto==2.6.1
 pycryptodome==3.6.1
-PyJWT==1.6.4
+PyJWT==2.4.0
 pytz==2018.4
 PyYAML==3.12
 raven==6.9.0
